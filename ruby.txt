@@ -1,0 +1,12 @@
+Ruby — proqramlaşdırma dili. Dilin yaradıcısı yapon Yukihiro Matsumotodur. O, bu dili yaratmaq üçün Perl, Smalltalk və Eiffel dillərindən yararlanmışdır.
+Matsumoto əvvəlcə bu dilə iki ad seçmişdi — "Coral" və "Ruby". Amma "Coral" adı Matsumotodan öncə başqa dilə verildiyi üçün Ruby variantının üzərində dayanıldı. "Ruby" ingilis dilində "rubin" mənasını verir.
+Matz, hər zaman "Ruby'yi sadə deyil, təbii etməyə çalışdığını" vurğulamışdır.
+Buradan yola çıxaraq Matz aşağıdakıları əlavə edir:
+Ruby eynilə insan bədəni kimi, zahirən sadə, amma içində çox kompleks bir quruluşa malikdir.
+Ruby 1995-ci ildə ictimailəşəndən bəri, dünya səviyyəsində proqramçıların diqqətini çəkməyə başlamışdır. 2006 Rubynin qızıl ili olmuşdur. Dünyanın ən böyük şəhərlərində aktiv istifadəçi qrupları və Ruby ilə əlaqədar konfranslar keçirilmişdir.
+Proqramlaşdırma dillərinin məşhurluğunu araşdıran TIOBE statistikalarına görə, Ruby dünya səviyyəsində ən çox istifadə 10-cu dil halına gəlmişdir. Ruby'nin bu sürətli böyüməsində Ruby on Rails frameworkunun təsiri var.
+Ruby eyni zamanda tamamilə azad bir dildir. Ruby məsuliyyət mənasında bir azadlıq deyil, eyni zamanda istifadə, kopyalama, tənzimləmə və paylama azadlığı də təqdim edir.
+Matz yeni bir dil yaratmadan əvvəl ideal sözdizimini tapmaq üçün digər proqramlaşdırma dillərini araşdırmış və araşdırmasının sonunda "Perl'den daha güclü amma Pyton'dan daha obyektə istiqamətli bir kodlama dili" istədiyini söyləmişdir.
+Rubydə hər şey bir obyektdir. Gördüyünüz ən kiçik məlumat parçası və kod öz xüsusiyyətlərinə və hadisələrinə malikdir. Xüsusiyyətləri adla çağırma nümunə dəyişənlər, hadisələr da metodlar olaraq adlandırırlar.
+Ruby istifadəçilərə istədiyi qisimləri dəyişdirmə imkanı təqdim etdiyi üçün elastik bir dildir. İstəyə bağlı olaraq Rubynin əsaslı qisimləri belə qaldırıla, yenidən təyin oluna bilər ya da yeni qisimlər əlavə oluna bilər. Ruby programıçıyı məhdudlaşdırmamağı məqsəd qoymaqdadır.
+Rubynin elastik bir dil olaraq xatırlanmasında ən əhəmiyyətli səbəblərindən biri də bloklardır. Bir bağlamağı (closure) hər hansı bir metoda ataçlayabilir və metodun necə reaksiya verəcəyini təyin edə bilərsiniz. Bağlamaları, blokları olaraq anlandırırlırlar və PHP və ya Visual Basic kimi imperativ dillərdən Ruby'ye keçənlər arasında ən məşhur xüsusiyyətə çevrilmişdir.

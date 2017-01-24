@@ -1,0 +1,23 @@
+Assembler dili —maşın dilində yazılmış proqramların asan oxunan simvolik formada təqdim etmək üçün nəzərdə tutulmuşdur. Bu dil proqramçıya əməliyyatların mnemonik (Yunanca "mnemonikon" - "yaddasaxlama bacarığı"deməkdir.) kodlarından istifadə etməyə, yaddaş sahələrinə və oyuqlara rahat adlar qoymağa, həmçinin ən rahat ünvanlaşdırma sxemlərini verməyə imkan verir.
+
+1952-ci ildə Qreys Hopper dünyada ilk mnemonik proqramlaşdırma dili olan assembler dilini [assembly language] yaratdı. Assemblerə mnemonik komandalar sistemi, prosedurlar kitabxanası və proqramın mətnini maşın koduna çevirən xüsusi proqram daxil idi. Proqramın maşın dilinə çevrilməsi proseduruna kompilyasiya, onu gerçəkləşdirən proqrama isə kompilyator deyilir (bu termin də Qreys M.Hopperindir).
+
+Assembler dili digər proqramlaşdırma dillərinəbənzəmir və tamamilə fərqli bir dildir. Assembler dilinin 2-ci nəsil dil olması və 3-cü nəsil dillərin assembler üzərində inkişaf etdirilməsi qətiyyən o demək deyil ki, Assembler dili artıq köhnədir və o istifadə olunmur.
+
+Assembler dili hal-hazırda proqramlaşdırmada çox böyük çəkiyə malikdir və onsuz müasir proqramlaşdırmanı təsəvvür eləmək kompüteri prosessorsuz təsəvvür eləmək kimi bir şeydir. Assembler dili hal-hazırda inkişaf etdirilir, yeni-yeni standartları hazırlanıb test edilir, müxtəlif instutlar, İT şirkətlər tərəfindən.
+
+Assembler dilinin imkanları sonsuzdur(Digər dillərinki isə sonlu).
+
+Misal üçün ancaq Assembler dilində yazılmış proqram ilə Prosessorun xarici və daxili siqnallara cavab reaksiyasın (kəsilmələri) idarə etmək mümkündür. Ancaq assembler dilində yazılmış proqram ilə yaddaşa müraciət rejimlərin(segment:offset , paging ) idarə etmək mümkündür.
+
+Assembler hal-hazırda ancaq sistem proqramlaşdırmada istifadə olunur. Assembler dilinə aid çoxlu kitablar və məqalələr mövcuddur, elektron şəkildə və digər formalarda.
+
+İstənilən proqramlaşdırma dilində olduğu kimi Assembler dilinin əlifbasına, translyator tərəfindən qəbul oluna bilən, xüsusi simvollar yığımı daxildir. Bu simvollar yığımı aşağıdakılardır:
+
+Latın əlifbasının böyük ( A- Z) və kiçik (a-z) hərfləri.
+0-dan 9 –a qədər ərəb rəqəmləri.
+Xüsusi işarələr ? @ $ &
+Boşluq işarəsi və alt xətt ( _ ).
+Ayırıcı işarələr  ;  : , . [ ] ( ) < > { } + – / *  %  ! " ' \ = # ^
+Bunlardan başqa Assembler dilinə müəyyən açar sözləri daxildir ki, onlar da proqramda olduğu kimi işlədilirlər.
+
